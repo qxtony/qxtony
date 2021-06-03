@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @qxtony
+- 👀 I'm interested in python programming
+- 📫 I'm in VK: vk.com/xtonypythonx and Telegram: @xtonypythonx
