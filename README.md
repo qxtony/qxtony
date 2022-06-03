@@ -1,3 +1,3 @@
 - 👋 Hi, I @qxtony
-- 👀 I write diffrent projects and bots in Python, C++, Kotlin.
+- 👀 I write diffrent projects and bots in Python, Kotlin.
 - 📫 I in VK: vk.com/qxtony and Telegram: @qxtony
