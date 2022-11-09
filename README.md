@@ -1,3 +1,3 @@
 - 👋 Hi, I qxtony
-- 👀 I write diffrent projects in Python, C++.
+- 👀 I write diffrent projects in Python.
 - 📫 I in VK: vk.com/qxtony and Telegram: qxtony.t.me
